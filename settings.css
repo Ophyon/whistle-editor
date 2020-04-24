@@ -1,0 +1,18 @@
+body {
+    background-color:#575757;
+    color:white;
+    text-align:center;
+}
+
+div {
+    font-size:300%;
+    font-family: 'Indie Flower', cursive;
+}
+
+button {
+    width:100px;
+    height: 30px;
+    background-color:#6d6d87;
+    color:white;
+    border-width:0px;
+}
