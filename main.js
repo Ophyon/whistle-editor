@@ -1,7 +1,6 @@
-
 var code;
 var editor = CodeMirror.fromTextArea(document.getElementById('input'), {
-    mode: 'javascript',
+    mode: 'whistle',
     theme: localStorage.getItem("whistletheme")|| 'yonce',
     lineNumbers: true,
     autoCloseBrackets: true
