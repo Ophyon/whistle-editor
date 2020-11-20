@@ -9,7 +9,7 @@ CodeMirror.defineSimpleMode("whistle", {
 			"token": "string"
 		},
 		{
-			"regex": /(?:function|var|val|return|if|for|while|else|loop|break|export|import|from|type)\b/,
+			"regex": /(?:import|as|from|export|fun|return|if|else|while|break|continue|var|val|none|for|in|match|type|struct|trait)\b/,
 			"token": "keyword"
 		},
 		{
