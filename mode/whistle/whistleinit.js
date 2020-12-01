@@ -54,8 +54,7 @@ import CodeMirror from "https://cdn.jsdelivr.net/npm/codemirror@5.58.3/src/codem
                 "struct": kw("class"),
                 "true": atom,
                 "false": atom,
-                "none"
-                atom
+                "none": atom
             };
         }();
 
