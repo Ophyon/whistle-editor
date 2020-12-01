@@ -1,5 +1,5 @@
 # whistle-editor 
-[![](https://data.jsdelivr.com/v1/package/gh/Ophyon/whistle-editor/badge)](https://www.jsdelivr.com/package/gh/Ophyon/whistle-editor)
+[![](https://data.jsdelivr.com/v1/package/gh/Ophyon/whistle-editor/badge)](https://www.jsdelivr.com/package/gh/Ophyon/whistle-editor) <br>
 an online ide for the whistle programming language
 
 
